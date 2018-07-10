@@ -1,0 +1,32 @@
+p
+{
+color:red;
+width=10px;
+border:2px solid black;
+line height=1;
+}
+h1{
+color:green;
+font size:30px;
+text-align:center;
+text-shadow:5px 3px 2px red;
+}
+li{
+color:blue;
+line height=1;}
+html{
+background-color:gray;
+}
+body{
+margin-top:150px;
+margin-right:90px;
+margin-left:90px;
+margin-bottom:100px;
+padding-top:200px;
+padding-right:250px;
+padding-bottom:100px;
+padding-left:150px;
+}
+
+
+
